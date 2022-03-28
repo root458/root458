@@ -20,6 +20,7 @@
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/csharp.svg" alt="C#" />](# "C#") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dart.svg" alt="Dart" />](# "Dart") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
