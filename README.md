@@ -26,6 +26,8 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
 
+<p align="center"><img align="center" style="" src="https://github-readme-stats.vercel.app/api/top-langs?username=root458&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" alt="root458" /></p>
+
 [<img align="" width="425" alt="Kagame's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=root458&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
 [<img align="" width="425" alt="Kagame's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=root458&theme=gotham&hide_border=true" />](# "Some of my stats.")
 
