@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me kagame458@protonmail.com
 
-## Check me out!
+## Check me out
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479373-6b82b094-118e-4021-bd67-42b2e6ede414.svg" alt="Twitter" />][twitter] &nbsp;
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479371-3af0096e-cf56-4d22-aac7-e166ed62dcf1.svg" alt="Telegram" />][telegram] &nbsp;
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479366-72031c50-8fa4-41fa-9b92-e7e374028adf.svg" alt="LinkedIn" />][linkedin] &nbsp;
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479369-b18da1b7-c799-4af8-8a5c-c7cfdb12ca4b.svg" alt="Protonmail" />][protonmail] &nbsp;
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479360-ec7decbe-cc1f-4f47-b80c-9e337a236bdc.svg" alt="HackerRank" />][hackerrank] &nbsp;
 
-## Tools and Languages!
+## Tools and Languages
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/androidstudio.svg" alt="Android Studio" />](# "Android Studio") &nbsp;
