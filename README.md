@@ -12,10 +12,8 @@
 [<img height="35" width="35" src="https://user-images.githubusercontent.com/57757012/160479360-ec7decbe-cc1f-4f47-b80c-9e337a236bdc.svg" alt="HackerRank" />][hackerrank] &nbsp;
 
 ## Tools and Languages
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/androidstudio.svg" alt="Android Studio" />](# "Android Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/inkscape.svg" alt="InkScape" />](# "InkScape") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/flutter.svg" alt="Flutter" />](# "Flutter") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
