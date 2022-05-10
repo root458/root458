@@ -33,7 +33,7 @@
 
 [twitter]: https://twitter.com/klein458 "Twitter, judge my opinions."
 [telegram]: https://t.me/ "Telegram, just don't spam."
-[linkedin]: https://linkedin.com/in/  "LinkedIn, judge my academics."
+[linkedin]: https://www.linkedin.com/in/hope-kagame-opiyo-7bb5a4239/  "LinkedIn, judge my academics."
 [protonmail]: mailto:kagame458@protonmail.com
 [hackerrank]: https://www.hackerrank.com/ "HackerRank, Don't judge I don't code regularly."
 [Cysec]: https://cysec.in "The Cyber Wary Coterie"
