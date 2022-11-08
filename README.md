@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kagame
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter Development
+- 🌱 I’m currently learning Go programming
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me kagame458@protonmail.com
 
